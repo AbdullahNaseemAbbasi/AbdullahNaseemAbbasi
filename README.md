@@ -13,7 +13,7 @@ const abdullah = {
     role: "Full Stack Developer",
     experience: "3+ years professional",
     focus: "Building scalable web apps from database to deployment",
-    languages: ["JavaScript", "TypeScript", "React js", "Node js", "Express js", "Java", "Python", "Ruby"],
+    languages: ["JavaScript", "TypeScript", "React js", "Node js", "Express js", "Nest js", "Java", "Python", "Ruby"],
 };
 ```
 
